@@ -10,7 +10,21 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\apitest\featureFiles\register.feature">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\apitest\featureFiles\resources.feature">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\apitest\models\login.py">
           <value>
             <Attribute>
               <option name="separator" value=":" />
