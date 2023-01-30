@@ -38,3 +38,6 @@ class Helper(Enum):
     def get_content(self, response: Response) -> Any:
         response_data = response.text
         return response_data
+
+    
+
